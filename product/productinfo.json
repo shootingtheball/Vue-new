@@ -1,0 +1,121 @@
+{code: "2000", data: {brandId: 15, brandName: "囫囵", cateId: 40, createdTime: "2018-01-03 19:59:33",…},…}
+code
+:
+"2000"
+data
+:
+{brandId: 15, brandName: "囫囵", cateId: 40, createdTime: "2018-01-03 19:59:33",…}
+brandId
+:
+15
+brandName
+:
+"囫囵"
+cateId
+:
+40
+createdTime
+:
+"2018-01-03 19:59:33"
+detail
+:
+"<p><img src="//image.zhongmispace.com/product/20180110/6c5fa0d2-c65c-4acc-ae11-230ff258bdcd.jpg"/></p><p><img src="//image.zhongmispace.com/product/20180110/e95bb7a6-6dd3-41ac-b6b7-93f5b18b1116.jpg"/></p><p><img src="//image.zhongmispace.com/product/20180110/66f8d138-93e4-4bc9-8999-595344810ed9.jpg"/></p><p><img src="//image.zhongmispace.com/product/20180110/2db75647-2093-457e-8bc9-ac6c1ca7d1e9.jpg"/></p><p><img src="//image.zhongmispace.com/product/20180110/f7505d08-7ace-48f1-857b-e6ece9346ec8.jpg"/></p><p><img src="//image.zhongmispace.com/product/20180110/ff427b7b-6647-4d4a-a386-ff00b58cf981.jpg"/></p><p><br/></p>"
+id
+:
+24613
+imageUrl
+:
+["//image.zhongmispace.com/product/20180110/4632be5e-1ff1-4946-af2f-40db6d2093cf.jpg",…]
+merchantId
+:
+1
+name
+:
+"囫囵无袖毛绒下摆玫红色连衣裙"
+productCode
+:
+"MN004"
+productFeatures
+:
+[]
+skuList
+:
+[{barcode: "MN0043025", cateId: 40, createdTime: "2018-01-04 11:45:35", freightDetail: "2件包邮",…},…]
+0
+:
+{barcode: "MN0043025", cateId: 40, createdTime: "2018-01-04 11:45:35", freightDetail: "2件包邮",…}
+barcode
+:
+"MN0043025"
+cateId
+:
+40
+createdTime
+:
+"2018-01-04 11:45:35"
+freightDetail
+:
+"2件包邮"
+id
+:
+91124
+imageUrl
+:
+["//image.zhongmispace.com/shop/20180110/793d3715-f68b-49c0-a063-2270fd28a6db.jpg"]
+inventoryList
+:
+[]
+marketPrice
+:
+2880
+merchantName
+:
+"五色风马"
+miaosha
+:
+false
+originName
+:
+"测试产地"
+productId
+:
+24613
+promotionInfo
+:
+{rules: [], skuId: 91124}
+recommend
+:
+false
+sellPrice
+:
+2880
+skuFeatures
+:
+[{featureId: 49226, name: "尺码", value: ["L"]}, {featureId: 49225, name: "颜色", value: ["玫红"]}]
+title
+:
+"囫囵无袖毛绒下摆玫红色连衣裙L"
+updatedTime
+:
+"2018-02-07 18:23:04"
+wholesale
+:
+false
+1
+:
+{barcode: "MN0042025", cateId: 40, createdTime: "2018-01-04 11:45:35", freightDetail: "2件包邮",…}
+2
+:
+{barcode: "MN0041025", cateId: 40, createdTime: "2018-01-04 11:45:35", freightDetail: "2件包邮",…}
+status
+:
+"ACTIVE"
+updatedTime
+:
+"2018-02-07 18:24:04"
+wholesale
+:
+false
+msg
+:
+""
